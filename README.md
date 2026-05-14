@@ -18,18 +18,20 @@
 ## 📸 Preview
 
 ### Desktop View 🖥
+
 | Home | Menu |
 |----------|-------|
-| ![](./screenshots/homepage.png) | ![](./screenshots/about.png) |
+| ![Home](./screenshots/homepage.png) | ![Menu](./screenshots/about.png) |
 
 | Gallery | Reservation |
 |---------|------------|
-| ![](./screenshots/gallery.png) | ![](./screenshots/reservations.png) |
+| ![Gallery](./screenshots/gallery.png) | ![Reservation](./screenshots/reservations.png) |
 
 ### Mobile View 📱
+
 | Home | Gallery |
 |----------|-------|
-| ![](./screenshots/homepage-mobile.png) | ![](./screenshots/gallery-mobile.png) |
+| ![Home](./screenshots/homepage-mobile.png) | ![Gallery](./screenshots/gallery-mobile.png) |
 
 ---
 
