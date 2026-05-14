@@ -18,16 +18,18 @@
 ## 📸 Preview
 
 ### Desktop View 🖥
-- Luxury Hero Landing Section
-- Signature Culinary Showcase
-- Chef & Fine Dining Experience Sections
-- Premium Restaurant Storytelling
-- Reservation & Contact Sections
+| Home | Menu |
+|----------|-------|
+| ![](./screenshots/homepage.png) | ![](./screenshots/about.png) |
+
+| Gallery | Reservation |
+|---------|------------|
+| ![](./screenshots/gallery.png) | ![](./screenshots/reservations.png) |
 
 ### Mobile View 📱
-- Fully responsive navigation
-- Optimized layouts for tablets and phones
-- Mobile-friendly luxury dining experience
+| Home | Gallery |
+|----------|-------|
+| ![](./screenshots/homepage-mobile.png) | ![](./screenshots/gallery-mobile.png) |
 
 ---
 
