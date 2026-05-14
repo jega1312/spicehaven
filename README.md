@@ -2,6 +2,7 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-6-21759B?style=flat&logo=wordpress)
 ![Elementor](https://img.shields.io/badge/Elementor-Website_Builder-92003B?style=flat&logo=elementor)
+![WPCode](https://img.shields.io/badge/WPCode-Code_Snippets-2D2D2D?style=flat&logo=code)
 ![LocalWP](https://img.shields.io/badge/LocalWP-Local_Development-2C6BED?style=flat)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-Free_Hosting-FFB300?style=flat)
 
