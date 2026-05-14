@@ -1,11 +1,11 @@
-# Spice Haven - A Conceptual 3-Michelin Star Fine Dining Restaurant WordPress Website ⭐🍽
+# Spice Haven - A Conceptual Luxury Fine Dining Restaurant WordPress Website ⭐🍽
 
 ![WordPress](https://img.shields.io/badge/WordPress-6-21759B?style=flat&logo=wordpress)
 ![Elementor](https://img.shields.io/badge/Elementor-Website_Builder-92003B?style=flat&logo=elementor)
 ![LocalWP](https://img.shields.io/badge/LocalWP-Local_Development-2C6BED?style=flat)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-Free_Hosting-FFB300?style=flat)
 
-> A fictional 3-Michelin Star fine dining restaurant website built using WordPress and Elementor. Designed as a frontend portfolio project to demonstrate premium restaurant branding, luxury UI design, responsive layouts, and practical WordPress development workflow.
+> A fictional luxury fine dining restaurant website built using WordPress and Elementor. Designed as a frontend portfolio project to demonstrate premium restaurant branding, luxury UI design, responsive layouts, and practical WordPress development workflow.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 💡 About The Project
 
-Spice Haven is a **fictional 3 Michelin Star fine dining restaurant website** created to simulate the online presence of a luxury culinary brand. The project focuses on delivering a premium digital dining experience through elegant layouts, immersive visuals, and modern frontend structure.
+Spice Haven is a **fictional luxury fine dining restaurant website** created to simulate the online presence of a luxury culinary brand. The project focuses on delivering a premium digital dining experience through elegant layouts, immersive visuals, and modern frontend structure.
 
 The website showcases:
 - Luxury restaurant branding
