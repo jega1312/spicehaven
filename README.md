@@ -19,19 +19,15 @@
 
 ### Desktop View 🖥
 
-| Home | Menu |
-|----------|-------|
-| ![Home](./screenshots/homepage.png) | ![Menu](./screenshots/about.png) |
-
-| Gallery | Reservation |
-|---------|------------|
-| ![Gallery](./screenshots/gallery.png) | ![Reservation](./screenshots/reservations.png) |
+![Home](./screenshots/homepage.png)
+![Menu](./screenshots/about.png)
+![Gallery](./screenshots/gallery.png)
+![Reservation](./screenshots/reservations.png)
 
 ### Mobile View 📱
 
-| Home | Gallery |
-|----------|-------|
-| ![Home](./screenshots/homepage-mobile.png) | ![Gallery](./screenshots/gallery-mobile.png) |
+![Home](./screenshots/homepage-mobile.png)
+![Gallery](./screenshots/gallery-mobile.png)
 
 ---
 
