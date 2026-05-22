@@ -1,4 +1,4 @@
-# Spice Haven - A Conceptual Luxury Fine Dining Restaurant WordPress Website ⭐🍽
+# Spice Haven - Conceptual Luxury Fine Dining Restaurant WordPress Website ⭐🍽
 
 ![WordPress](https://img.shields.io/badge/WordPress-6-21759B?style=flat&logo=wordpress)
 ![Elementor](https://img.shields.io/badge/Elementor-Website_Builder-92003B?style=flat&logo=elementor)
